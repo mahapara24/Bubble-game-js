@@ -6,11 +6,6 @@
 
 This is a simple bubble-popping game built using JavaScript. You can play the game online by visiting the [live demo](https://mahapara24.github.io/Bubble-game-js/).
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [How to Play](#how-to-play)
 
 ## Demo
 
