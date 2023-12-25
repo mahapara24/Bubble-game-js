@@ -3,6 +3,11 @@
 ```markdown
 # Bubble Game (JavaScript)
 
+# output
+![Screenshot from 2023-12-25 18-07-15](https://github.com/mahapara24/Bubble-game-js/assets/92634034/ce4cb6b0-6f45-4889-97ce-ab43649bd2b3)
+
+
+
 
 This is a simple bubble-popping game built using JavaScript. You can play the game online by visiting the [live demo](https://mahapara24.github.io/Bubble-game-js/).
 
